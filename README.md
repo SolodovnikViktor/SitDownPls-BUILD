@@ -1,4 +1,4 @@
-## Интернет- магазин для компании SitDownPls
+## Интернет - магазин для компании SitDownPls
 
 Посмотреть проект: https://solodovnikviktor.github.io/SitDownPls-BUILD/
 
