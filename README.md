@@ -1,5 +1,7 @@
 ## Интернет- магазин для компании SitDownPls
 
+Посмотреть проект: https://solodovnikviktor.github.io/SitDownPls-BUILD/
+
 ## Технологии
 - HTML, CSS, SCSS, JavaScript, PHP, Gulp, БЭМ
 > Используется Gulp 4
